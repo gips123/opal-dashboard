@@ -6,7 +6,6 @@ import api from '@/lib/api';
 import { useSocket } from '@/hooks/useSocket';
 import { useIpalStore } from '@/store/useIpalStore';
 import { StatusPanel } from '@/components/dashboard/StatusPanel';
-import { SensorCard } from '@/components/dashboard/SensorCard';
 import { DeviceGrid } from '@/components/dashboard/DeviceGrid';
 import { HistoryChart } from '@/components/dashboard/HistoryChart';
 
